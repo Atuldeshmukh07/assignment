@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #7e1aa6;
+}
+
+.nav-logo {
+    padding: 10px 10px 0 0;
+}
+
+.nav-item {
+    padding-right: 20px;
+    font-size: 17px;
+}
+
+.dropdown-menu {
+    background-color: #7e1aa6;
+}
+
+.heading {
+    padding: 15px;
+    font-size: 45px;
+    color: #7e1aa6;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+.card {
+    width: 240px;
+    height: 230px;
+}
+
+.card-img-top {
+    width: 150px;
+    height: 170px;
+}
